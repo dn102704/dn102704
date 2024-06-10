@@ -26,7 +26,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <a href="#">
     <!-- <img width="60%" align="right" alt="dn102704's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dn102704&theme=react&border=61dafb&hide_border=true" /> -->
-    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn102704&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn102704&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" />
     <!-- <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=dn102704&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" /> -->
   </a>
 
