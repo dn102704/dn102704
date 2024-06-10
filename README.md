@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 &nbsp;
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dn102704&theme=darkhub&row=1&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=paul42893&theme=darkhub&row=1&column=5">
 </div>
 &nbsp;
 &nbsp;
@@ -33,8 +33,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   
   <br />
