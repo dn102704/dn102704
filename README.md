@@ -26,8 +26,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <a href="#">
     <img width="60%" align="right" alt="dn102704's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dn102704&theme=react&border=61dafb&hide_border=true" />
-    <img align="right" width="60%" src="https://readme-git-main-dn102704.vercel.app/api/top-langs/?username=dn102704&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-    <img align="right" width="60%" src="https://readme-20dn5reob-dn102704.vercel.app/api?username=dn102704&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
+    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn102704&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=dn102704&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -36,10 +36,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  
   <br />
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
